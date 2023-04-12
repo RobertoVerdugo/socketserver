@@ -2,7 +2,7 @@ import socket, threading, sys
 
 class Server ():
     
-    adress = "10.0.0.1"
+    adress = "172.31.26.59"
     port = 65436
     threads = []
     threads_users = []
