@@ -2,8 +2,8 @@ import socket, threading, sys
 
 class Server ():
     
-    adress = "127.0.0.1"
-    port = 65436
+    adress = "54.186.81.247"
+    port = 65430
     threads = []
     threads_users = []
     socketServer = socket.socket()
