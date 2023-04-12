@@ -3,7 +3,7 @@ import socket, threading, sys
 class Server ():
     
     adress = "172.31.26.59"
-    port = 65436
+    port = 65437
     threads = []
     threads_users = []
     socketServer = socket.socket()
